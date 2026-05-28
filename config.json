@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authetringify",
+        "uuid": 12416001,
+        "checksum": "fqyt2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
